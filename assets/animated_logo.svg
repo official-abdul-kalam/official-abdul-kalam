@@ -1,0 +1,22 @@
+<svg width="256" height="256" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    .spinning {
+      animation: spin 5s linear infinite;
+      transform-origin: center;
+    }
+  </style>
+  <g class="spinning">
+    <circle cx="16" cy="16" r="14" stroke="#00E0FF" stroke-width="2" stroke-opacity="0.5" />
+    <path d="M16 30C23.732 30 30 23.732 30 16C30 8.26801 23.732 2 16 2" stroke="url(#paint0_linear_logo)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_logo" x1="16" y1="2" x2="16" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E0FF"/>
+      <stop offset="1" stop-color="#7B61FF"/>
+    </linearGradient>
+  </defs>
+</svg>
