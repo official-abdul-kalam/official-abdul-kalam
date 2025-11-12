@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://oruzen.com" target="_blank">
-    <img src="https://www.oruzen.com/images/logo.svg" alt="Oruzen Logo" width="150">
-  </a>
+  <img src="assets/animated_logo.svg" alt="Oruzen Animated Logo" width="150">
 
   <h1 align="center">Hi there 👋, I'm Abdul Kalam</h1>
   <h3 align="center">A Passionate Creator, Innovator, and Lifelong Learner from India</h3>
@@ -30,12 +28,40 @@
 
 ---
 
+### 🚀 My Ecosystem
+
+Here are some of the key projects I'm building to shape the future of creativity and productivity:
+
+<table width="100%">
+  <tr align="center">
+    <td width="33%">
+      <a href="https://os.oruzen.com" target="_blank">
+        <h4>🖥️ Oruzen OS</h4>
+      </a>
+      <p>The first AI-powered, offline-integrated operating system designed for creators and developers.</p>
+    </td>
+    <td width="33%">
+      <a href="https://web.oruzen.com" target="_blank">
+        <h4>🌐 ORUWEB</h4>
+      </a>
+      <p>An intelligent, private, and fast web browser built for the modern, AI-driven internet.</p>
+    </td>
+    <td width="33%">
+      <a href="https://promptocean.in" target="_blank">
+        <h4>💡 PromptOcean</h4>
+      </a>
+      <p>A platform for discovering, sharing, and utilizing high-quality AI prompts to fuel creativity.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### About Me
 
-- 🔭 I’m currently leading the development of <strong>Oruzen OS</strong>, the first AI-powered, offline-integrated operating system.
-- 🌱 I’m exploring the frontiers of AI, human-computer interaction, and design.
+- 🔭 I’m currently leading the development of the Oruzen ecosystem.
+- 🌱 I’m exploring the frontiers of AI, human-computer interaction, and beautiful design.
 - 👯 I’m open to collaborating on open-source projects that are shaping the future of technology.
-- 💬 Ask me about AI, design, entrepreneurship, or my vision for Oruzen.
 - 📫 You can reach me at <strong><a href="mailto:abdul4372a@gmail.com">abdul4372a@gmail.com</a></strong>.
 
 ---
